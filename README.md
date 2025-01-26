@@ -7,9 +7,13 @@ Estou empolgado em compartilhar com vocês minha solução para os desafios prop
 Este projeto contém soluções para cinco desafios interessantes, cada um testando diferentes aspectos da lógica de programação e resolução de problemas. Aqui está uma visão geral rápida:
 
 Cálculo de Soma: Um exercício aparentemente simples que testa a compreensão de loops e variáveis.
+
 Sequência de Fibonacci: Um clássico problema que envolve sequências e verificações condicionais.
+
 Análise de Dados de Faturamento: Um desafio mais complexo envolvendo manipulação e análise de dados.
+
 Cálculo de Percentual de Faturamento: Outro problema de análise de dados, desta vez focando em cálculos percentuais.
+
 Inversão de String: Um exercício de manipulação de strings que testa a criatividade na solução de problemas.
 
 <h1>💻 Tecnologia Utilizada</h1>
